@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerdonnect",
+        "uuid": 855470,
+        "checksum": "dfvbj"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
